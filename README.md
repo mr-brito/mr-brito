@@ -1,16 +1,114 @@
-## Hi there 👋
+# Olá! 👋 Sou Mauricio de Santana Brito
+📍 Natural de Salvador, Bahia | 🎓 Graduando em Matemática (UFBA)
 
-<!--
-**mr-brito/mr-brito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Modelagem, Algoritmos e Computação`**
 
-Here are some ideas to get you started:
+🔥 O que me move: <br>
+Sou fascinado pela beleza da matemática e pelos mistérios da física, mas também me encanto com o impacto da tecnologia. Gosto de conectar esses mundos, usando computação e pensamento analítico para transformar ideias abstratas em soluções concretas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💡 O que você vai encontrar por aqui: <br>
+  🚀 Projetos que unem teoria e prática <br>
+  🔢 Experimentos com algoritmos, análise de dados e modelagem <br>
+  🖥️ Códigos que dão vida a conceitos matemáticos <br>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Julia" 
+    title="Julia"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="Numpy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PyTorch"
+    title="PyTorch" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="TensorFlow" 
+    title="TensorFlow"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=mr-brito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-brito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
