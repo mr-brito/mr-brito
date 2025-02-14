@@ -45,11 +45,20 @@ Sou fascinado pela beleza da matemática e pelos mistérios da física, mas tamb
 
 <img 
     align="left" 
-    alt="NumPy" 
-    title="Numpy"
+    alt="Numba" 
+    title="Numba"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Numba_logo.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Matplotlib" 
+    title="Matplotlib"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
 />
 
 <img 
